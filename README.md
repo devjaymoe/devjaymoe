@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Thomas George Thomas,
-A data engineer passionate about Data Science.📊. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, ☁️ Cloud computing, 🚀 DevOps, 🆕 Innovation and Automation 🤖
+### Hi there 👋 I'm Devin Moore,
+A web developer who passionate about code.
 
 - ⚡ **Fun fact:** I believe we live in a Simulation.
 - 🔭 I’m currently working on Bridges To Prosperity web applicaiton.

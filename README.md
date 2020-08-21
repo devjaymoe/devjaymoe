@@ -6,3 +6,5 @@ A web developer who passionate about code.
 - 💡 I'm interested in all things web.
 - 💬 Talk to me about video games, Memes, anything that interests you.
 - 🌱 I’m currently pursuing web development
+
+Lets Link! [LinkedIn](https://www.linkedin.com/in/devin-jay-moore/)
